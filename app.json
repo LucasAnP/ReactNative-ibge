@@ -1,0 +1,12 @@
+{
+  "name": "ibge",
+  "displayName": "ibge",
+  "expo": {
+    "name": "ibge",
+    "slug": "ibge",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
